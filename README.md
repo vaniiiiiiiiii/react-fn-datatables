@@ -14,7 +14,7 @@ npm i react-fn-datatables
 
 ```javascript
 import React from 'react';
-import DataTable from 'react-fn-datatables';
+import DataTable from 'react-datatables';
 
 var data = [
   [ "Tiger Nixon", "System Architect", "Edinburgh", "5421", "2011/04/25", "$320,800" ],
@@ -48,3 +48,9 @@ class App extends React.Component {
 
 export default App;
 ```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[GNU General Public License v3.0](https://github.com/iamuch/react-fn-datatables/blob/master/LICENSE)
