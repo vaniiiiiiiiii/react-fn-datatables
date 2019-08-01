@@ -1,6 +1,6 @@
 # react-fn-datatables
 
-A jQuery DataTable component build for React.js
+A jQuery DataTable component-based built for React.js
 
 ## Installation
 
