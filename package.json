@@ -3,6 +3,11 @@
   "version": "0.0.5",
   "description": "A jQuery DataTable component for React.js",
   "main": "build/index.js",
+  "repository": {
+    "url": "https://github.com/iamuch/react-fn-datatables",
+    "type": "git"
+  },
+  "license": "GNU General Public License v3.0",
   "peerDependencies": {
     "react": "^15.5.4"
   },
