@@ -2,6 +2,18 @@
   "name": "react-fn-datatables",
   "version": "0.0.6",
   "description": "A jQuery DataTable component for React.js",
+  "keywords": [
+    "jquery",
+    "datatables",
+    "react-datatables",
+    "react-datatable",
+    "react-table",
+    "react-tables",
+    "react-datatable-component",
+    "react-datatables-component",
+    "tables",
+    "react"
+  ],
   "main": "build/index.js",
   "repository": {
     "url": "https://github.com/iamuch/react-fn-datatables",
