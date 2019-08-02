@@ -14,7 +14,7 @@ npm i react-fn-datatables
 
 ```javascript
 import React from 'react';
-import DataTable from 'react-datatables';
+import DataTable from 'react-fn-datatables';
 
 var data = [
   [ "Tiger Nixon", "System Architect", "Edinburgh", "5421", "2011/04/25", "$320,800" ],
